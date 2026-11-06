@@ -1,0 +1,26 @@
+THIS IS VIGOR!
+
+THIS IS NOT NVI!
+
+Vigor is designed as a vi-compatible editor, with a little (*ahem*)
+extra something thrown in.  It was inspired by the January 4, 2000
+storyline in the User Friendly comic.  If you haven't seen it yet,
+check it out at http://www.userfriendly.org/ (and do so in a place you
+can freely laugh).  Go ahead, I'll wait.
+
+First, let me take the blame for this atrocity, and make sure that
+nobody gets the wrong idea about the authors of nvi (good people all).
+
+Vigor is based on nvi, a wonderful vi-compatible editor written by
+many people.  (See the README for a list of who wrote it, and what
+they did.)  The Vigor build tree is mostly nvi.  In order to make this
+in time, I took nvi and hacked it to little bits.  Vigor is not part
+of nvi; it's a program that's based around it.  If you find bugs in
+this code, you may safely assume that they are mine.  If you like the
+editor, I suggest you check out the true nvi, at
+http://www.bostic.com/vi/ (or ftp.bostic.com for the http-impaired).
+
+I may at some point describe Vigor more.  But I need to go create my
+monster now.
+
+Joel Ray Holveck <joelh@gnu.org>
